@@ -6,4 +6,4 @@ def f(x):
 
 
 def test_case01():
-    assert f(1) == 2
+    assert f(1) == 3
